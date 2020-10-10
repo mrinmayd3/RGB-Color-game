@@ -5,4 +5,4 @@ You have to guess the right color of that particular RGB.
 
 ## Screenshot
 
-1[RGB color game](./img/RGBcolorGame.png)
+![RGB color game](./img/RGBcolorGame.png)
